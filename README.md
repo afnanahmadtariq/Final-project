@@ -11,6 +11,7 @@ Who are you:
 
 Project details:
 - The Rust-based inventory management system is designed to streamline stock management processes for small retail stores. This project aims to develop a user-friendly program that allows efficient handling of product inventory. The system will provide essential functionalities such as adding, editing, and deleting products from the inventory. Additionally, it will generate comprehensive reports to facilitate data analysis and decision-making processes. By leveraging the robustness and performance of Rust, this inventory management system will offer a reliable and secure solution for retailers to effectively manage their stock. The project's focus is to create a simple yet powerful tool that enhances inventory control, optimizes stock levels, and improves overall efficiency for small retail businesses.
+
 amdin credentials for login:
 username: admin
 password: pass123
@@ -51,6 +52,7 @@ Congratulations! You have successfully installed and launched the Inventory Mana
 #Usage
 
 Upon accessing the Inventory Management System in your web browser, you will be presented with a user-friendly interface to manage your inventory. Use the provided functionalities to add, edit, and delete products, and generate reports based on your inventory data.
+
 amdin credentials for login:
 username: admin
 password: pass123
