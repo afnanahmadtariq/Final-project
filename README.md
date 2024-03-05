@@ -1,8 +1,5 @@
-# Final-project
-Rusty Store Inventory Management System
-
 # Project name:
-- Rusty Store Inventory Management System
+Rusty Store Inventory Management System
 
 # Who are you: 
 - name: Afnan Ahmad Tariq
