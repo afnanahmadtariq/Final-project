@@ -27,7 +27,7 @@ To get started with the Inventory Management System, follow the steps below:
 
     Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/inventory-management-system.git
+git clone https://github.com/afnanahmadtariq/Final-project.git
 
 Make sure you have Rust programming language installed on your system. If not, download and install Rust from the official website: https://www.rust-lang.org/
 
